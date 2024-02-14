@@ -33,4 +33,3 @@ let edad = parseInt(prompt("Ingrese la edad de la mascota:"));
 
 let mensaje = getPetExerciseInfo(tipo_mascota, edad); alert(mensaje);
 
-//console.log(getPetExerciseInfo(tipo_mascota, edad));
